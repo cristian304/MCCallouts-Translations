@@ -1,26 +1,26 @@
 <BicycleAccident>
 
     <General>
-        <Text>Bicycle traffic accident</Text>
-        <Text>Analyse the scene</Text>
-        <Text>And have you found out what caused this accident?</Text>
-        <Text>Callout Bicycle Accident ended.</Text>
+        <Text>Incidente stradale in bicicletta</Text>
+        <Text>Analizza la scena</Text>
+        <Text>E hai scoperto cosa ha causato questo incidente?</Text>
+        <Text>La chiamata per l'incidente in bicicletta è terminata.</Text>
     </General>
 
 
     <D_Witness1_0>
-        <Dialogue>Hi, my name is Greg. I tell you why this happened.</Dialogue>
-        <Dialogue>See this suspect over there? He should be citated.</Dialogue>
-        <Dialogue>He was driving too fast over the speed limit.</Dialogue>
-        <Dialogue>People don't care about the speed limit these days.</Dialogue>
+        <Dialogue>Ciao, mi chiamo Greg. Ti dico perché è successo.</Dialogue>
+        <Dialogue>Vedi questo sospettato laggiù? Dovrebbe essere interrogato.</Dialogue>
+        <Dialogue>Stava guidando troppo velocemente oltre il limite di velocità.</Dialogue>
+        <Dialogue>Al giorno d'oggi alla gente non interessa più il limite di velocità.</Dialogue>
     </D_Witness1_0>
 
     <D_Witness2_0>
-        <Dialogue>Hello. I saw a part of the accident.</Dialogue>
-        <Dialogue>He was waiting on the sidewalk and looking back towards the oncoming vehicles.</Dialogue>
-        <Dialogue>He had something in his hands, too. I couldn't see it.</Dialogue>
-        <Dialogue>I'm not 100% sure and don't wanna blame the cyclist, but he looked nervous.</Dialogue>
-        <Dialogue>Then I was minding my own business when I heard a loud boom, that was when it happened.</Dialogue>
+        <Dialogue>Ciao. Ho visto una parte dell'incidente.</Dialogue>
+        <Dialogue>Stava aspettando sul marciapiede e guardava indietro verso i veicoli in arrivo.</Dialogue>
+        <Dialogue>Lui aveva qualcosa tra le mani. Non riuscivo a vederlo.</Dialogue>
+        <Dialogue>Non ne sono sicuro al 100% e non voglio incolpare il ciclista, ma sembrava nervoso.</Dialogue>
+        <Dialogue>Poi stavo facendo gli affari miei quando ho sentito un forte boom, è stato allora che è successo.</Dialogue>
     </D_Witness2_0>
 
     <D_Witness3_0>
